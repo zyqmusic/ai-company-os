@@ -2,7 +2,7 @@
 
 ## 最高优先级
 
-1. 上传至 `zyqmusic/ai-company-os` 并确认 GitHub Pages 示例站部署结果。
+1. 确认 `https://zyqmusic.github.io/ai-company-os/` 的 GitHub Pages 首次部署结果。
 2. 在具备 npm Registry 网络访问的环境执行 `pnpm install && pnpm dev`，验证管理后台基础工程。
 3. 确认第一批业务范围：公司／项目／Git，或音乐陪练 MVP。
 
